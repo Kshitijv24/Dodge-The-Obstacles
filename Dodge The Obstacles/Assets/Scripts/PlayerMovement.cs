@@ -2,15 +2,11 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    //[SerializeField] private float xValue = 0f;
-    //[SerializeField] private float yValue;
-    //[SerializeField] private float zValue = 0f;
-
     [SerializeField] private float moveSpeed;
 
     private void Start()
     {
-        //transform.Translate(1, 0, 0);
+        
     }
 
     private void Update()
